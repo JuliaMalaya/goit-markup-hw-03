@@ -266,11 +266,11 @@ header .container {
 
 .our-team-header {
     padding: 120px 0;
-    padding-bottom: 72px;
+    /*padding-bottom: 72px;*/
 }
 
 .portfolio-header {
-    padding-bottom: 72px;
+    margin-bottom: 72px;
     color: #2E2F42;
     text-align: center;
     font-weight: 700;
