@@ -84,7 +84,7 @@ header .container {
 }
 
 .navigation-list-link {
-    display: flex;
+    display: block;
     color: #2E2F42;
     font-size: 16px;
     font-weight: 500;
